@@ -1,0 +1,15 @@
+allfilter/input/0_Perpetua.jpg
+allfilter/input/0_Lo-Fi.jpg
+allfilter/input/0_Sutro.jpg
+allfilter/input/0_Clarendon.jpg
+allfilter/input/0_Valencia.jpg
+allfilter/input/0_Mayfair.jpg
+allfilter/input/0_Gingham.jpg
+allfilter/input/0_Toaster.jpg
+allfilter/input/0_Hudson.jpg
+allfilter/input/0_Nashville.jpg
+allfilter/input/0_Amaro.jpg
+allfilter/input/0_Brannan.jpg
+allfilter/input/0_He-Fe.jpg
+allfilter/input/0_X-ProII.jpg
+allfilter/input/0_1977.jpg
